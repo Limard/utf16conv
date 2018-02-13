@@ -1,0 +1,1 @@
+utf16、utf8相互转换，syscall中的函数仅支持windows平台，所以单独提取出来
